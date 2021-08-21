@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anapaucacho@gmail.com
+	name = Ana Paula Cacho
